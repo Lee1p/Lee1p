@@ -26,7 +26,7 @@
 <a href="https://velog.io/@uu4567879/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp;
 </a>
-<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
+<a href="https://brave-rook-385.notion.site/198588731cd88066b02efdbd025edcb6">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </a>
 
