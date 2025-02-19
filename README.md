@@ -23,11 +23,12 @@
 <br>
 <h3 align="center">📝 Contact </h3>
 <div align="center">
-    <a href="https://velog.io/@uu4567879/posts" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp;
-    </a>
-    <a href="https://brave-rook-385.notion.site/198588731cd88066b02efdbd025edcb6" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-    </a>
+<a href="https://velog.io/@uu4567879/posts">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp;
+</a>
+<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</a>
+
 </div>
 
