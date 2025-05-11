@@ -3,7 +3,7 @@
 </div>
 
 
-<h3 align="center"> ⚡️Tech Stack⚡️</h3>
+<h3 align="center"> ⚡️Tech Stack </h3>
 
 <div align="center">
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
@@ -14,7 +14,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<p>🛠 Tools </p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
